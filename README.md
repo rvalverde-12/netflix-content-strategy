@@ -90,8 +90,11 @@ plt.legend(title='Content Type', title_fontsize='12', fontsize='11')
 plt.tight_layout()
 plt.show()
 ```
+<p align="center">
+  <img src="Charts/TVShows vs Movies.png" width="800" alt="TV Shows Vs. Movies"/>
+</p>
 
-Insight: While Movies historically dominate the raw volume of content added, their growth began to plateau around 2018. Conversely, TV Show additions display a steady, aggressive climb. This reflects Netflix's multi-billion dollar pivot toward original, binge-able series designed to reduce churn and keep users subscribed long-term.
+**Insight**: While Movies historically dominate the raw volume of content added, their growth began to plateau around 2018. Conversely, TV Show additions display a steady, aggressive climb. This reflects Netflix's multi-billion dollar pivot toward original, binge-able series designed to reduce churn and keep users subscribed long-term.
 
 ### Global Production Engine Analysis
 
@@ -128,4 +131,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-Insight: Unsurprisingly, the United States and the UK lead production. However, the massive presence of Japan (Anime) and South Korea (K-Dramas) highlights a hyper-localized global strategy. As the North American market saturates, Netflix relies heavily on international production hubs to drive international subscriber growth.
+<p align="center">
+  <img src="Charts/Top_Ten_Countries.png" width="800" alt="Top Ten Countries"/>
+</p>
+
+**Insight**: Unsurprisingly, the United States and the UK lead production. However, the massive presence of Japan (Anime) and South Korea (K-Dramas) highlights a hyper-localized global strategy. As the North American market saturates, Netflix relies heavily on international production hubs to drive international subscriber growth.
